@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Naresh Tamang</h1>
-<h3 align="center">A passionate Backend Django developer from Nepal.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naresh1-23" alt="naresh1-23" /></a> </p>
+<h1 align="center">Hi 👋, I'm Chitra Karki</h1>
+<h3 align="center">A passionate Backend Django, .NET developer from Nepal.</h3>
 
 - 💬 Ask me about **Django ,JavaScript,.NET,React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/naresh-tamang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naresh-tamang" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chitra-karki-3a487a2bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chitra-karki" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,6 +13,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naresh1-23&show_icons=true&locale=en" alt="naresh1-23" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sushant-0111&show_icons=true&locale=en" alt="Sushant-0111" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naresh1-23&" alt="naresh1-23" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushant-0111&" alt="Sushant-0111" /></p>
